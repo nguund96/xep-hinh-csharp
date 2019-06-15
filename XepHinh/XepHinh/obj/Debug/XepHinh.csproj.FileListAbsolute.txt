@@ -1,0 +1,9 @@
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\bin\Debug\XepHinh.exe.config
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\bin\Debug\XepHinh.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\bin\Debug\XepHinh.pdb
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\obj\Debug\XepHinh.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\obj\Debug\XepHinh.Form1.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\obj\Debug\XepHinh.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\obj\Debug\XepHinh.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\obj\Debug\XepHinh.exe
+E:\Visual Studio 2013\Projects\Lập trình trên Windows\XepHinh\XepHinh\obj\Debug\XepHinh.pdb
